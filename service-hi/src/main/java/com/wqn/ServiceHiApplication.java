@@ -1,4 +1,4 @@
-package com.wqn.filter;
+package com.wqn;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
